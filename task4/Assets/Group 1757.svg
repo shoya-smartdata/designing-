@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="281" height="55" viewBox="0 0 281 55">
+  <g id="Group_1757" data-name="Group 1757" transform="translate(-150 -50)">
+    <text id="apps_market" data-name="apps market" transform="translate(213 93)" fill="#fff" font-size="38" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">Apps Market</tspan></text>
+    <g id="home-24px" transform="translate(150 50)">
+      <path id="Path_1" data-name="Path 1" d="M22.4,51V34.059H32.6V51H45.35V28.412H53L27.5,3,2,28.412H9.65V51Z" fill="#fff"/>
+      <path id="Path_2" data-name="Path 2" d="M0,0H55V55H0Z" fill="none"/>
+    </g>
+  </g>
+</svg>

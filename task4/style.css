@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto";
+    
+}
+
+body{
+    background-color: #EBEBF8;
+}
+
+nav{
+    height: 70px;
+}
+
+.img-add{
+    background-image: url(./Assets//herobanner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   opacity: .9;
+    height: 600px;
+    width: 100%;
+   
+
+}
+
+/* footer custom css  */
+.footer-color {
+    background-color: #f8f9fa; /* Adjust this color to match your design */
+    padding: 20px;
+}
+.footer-icon img {
+    width: 24px;
+    height: 24px;
+}
+.footer-icon img + img {
+    margin-left: 8px;
+}

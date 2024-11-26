@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+}
+.sticky{
+    position: fixed;
+    top: o;
+    z-index: +55;
+    width: 100%;
+ 
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #FFD727;
+    height: 70px;
+    
+button{
+  padding:  10px 20px;
+  background-color: #FF743D;
+  color: white;
+  border: none;
+  border-radius: 3px;
+    }
+}
+
+.hero{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  height: 600px;
+  width: 100%;
+background-image: url(./assist/pexels-andrei-tanase-1271619.png);
+position: relative;
+h1{
+    text-align: center;
+    color: white;
+    font-size: 55px;
+   
+}
+}
+
+
+.hero-2{
+    padding: 10px 20px;
+    background-color: #F1F1F1;
+
+    .hero-2-content{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 40px;
+        gap: 25px;
+    }
+      .hero-2-content p{
+        text-align: center;
+      }
+      .hero-2-content h1{
+        font-size: 50px;
+      }
+    .col-p{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 6px;
+        margin-bottom: 40px;
+
+        .col-box{
+            border-radius: 10px;
+        }
+       
+        .col-box img{
+        width: 90%;
+   
+        }
+       
+    }
+}
+
+.hero-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 25px;
+    gap: 50px;
+    h1{
+        font-size: 40px;
+      }
+
+    .hero-c-3-2{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      gap: 15px;
+     
+     
+      div{
+     margin: 25px;
+    
+      }
+     
+    }
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: #A1A1A1;
+}

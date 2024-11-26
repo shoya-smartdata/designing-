@@ -1,0 +1,12 @@
+<svg id="Group_54" data-name="Group 54" xmlns="http://www.w3.org/2000/svg" width="152.539" height="41.125" viewBox="0 0 152.539 41.125">
+  <text id="plantemania" transform="translate(41.539 26.575)" fill="#171112" font-size="16" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="0.02em"><tspan x="0" y="0">plantemania</tspan></text>
+  <g id="Group_1" data-name="Group 1">
+    <g id="Path_1" data-name="Path 1" transform="translate(12.247 34.83)" fill="#050605">
+      <path d="M 8.480101585388184 5.658816337585449 L 0.3308156430721283 3.254395008087158 L -3.986903190612793 -6.929004192352295 L 12.7747163772583 -16.93728065490723 L 8.480101585388184 5.658816337585449 Z" stroke="none"/>
+      <path d="M 12.07577228546143 -15.9376106262207 L -3.356503486633301 -6.72307014465332 L 0.6989164352416992 2.841692924499512 L 8.092000007629395 5.022991180419922 L 12.07577228546143 -15.9376106262207 M 13.47367095947266 -17.93698692321777 L 8.86821174621582 6.294624328613281 L -0.03728866577148438 3.667093276977539 L -4.617308616638184 -7.134946346282959 L 13.47367095947266 -17.93698692321777 Z" stroke="none" fill="#050605"/>
+    </g>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="8.308" cy="9.575" rx="8.308" ry="9.575" transform="translate(0 11.371)" fill="#d3e154"/>
+    <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="8.308" cy="9.276" rx="8.308" ry="9.276" transform="translate(14.059 6.583)" fill="#42884b"/>
+    <ellipse id="Ellipse_2" data-name="Ellipse 2" cx="9.266" cy="10.473" rx="9.266" ry="10.473" transform="translate(5.752)" fill="#6dd47b"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="141" height="141" viewBox="0 0 141 141">
+  <g id="Group_133" data-name="Group 133" transform="translate(-1017 -2027.834)">
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="70.5" cy="70.5" r="70.5" transform="translate(1017 2027.834)" fill="#ff743d"/>
+    <g id="Group_107" data-name="Group 107" transform="translate(-46 -1325.166)">
+      <g id="currency-dollar" transform="translate(1117.716 3399.57)">
+        <g id="Group_127" data-name="Group 127" transform="translate(0 0)">
+          <path id="Path_111" data-name="Path 111" d="M12,36.822c.512,5.764,5.232,9.855,12.417,10.384v4.2h3.607v-4.2c7.849-.619,12.718-4.972,12.718-11.411,0-5.5-3.275-8.679-10.222-10.471l-2.5-.647V11.531c3.88.38,6.5,2.469,7.158,5.588h5.083c-.574-5.533-5.325-9.5-12.241-9.941V3H24.417V7.264c-6.7.8-11.307,5.09-11.307,10.913,0,5.028,3.34,8.586,9.2,10.087l2.109.56V42.762c-3.973-.588-6.708-2.766-7.369-5.941H12ZM23.726,23.557c-3.607-.909-5.533-2.853-5.533-5.588,0-3.264,2.434-5.674,6.224-6.321V23.734l-.692-.173Zm5.5,6.473c4.45,1.117,6.4,2.97,6.4,6.117,0,3.793-2.856,6.321-7.607,6.7V29.73l1.2.3Z" transform="translate(-12 -3)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Ellipse_69" data-name="Ellipse 69" transform="translate(1093 3383)" fill="none" stroke="#fff" stroke-width="4">
+        <circle cx="40.5" cy="40.5" r="40.5" stroke="none"/>
+        <circle cx="40.5" cy="40.5" r="38.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
